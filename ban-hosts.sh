@@ -35,6 +35,10 @@ do
     echo "127.0.0.1 $domain" >> /etc/hosts
     echo "Added: $domain"
   fi
+  if ! grep -q "127.0.0.1 www.$domain" /etc/hosts; then
+    echo "127.0.0.1 www.$domain" >> /etc/hosts
+    echo "Added: www.$domain"
+  fi
 done < "$INPUT_FILE"
 echo "All new entries from '$INPUT_FILE' added to /etc/hosts"
 

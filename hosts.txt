@@ -1,4 +1,5 @@
 9to5mac.com
+abcnews.go.com
 apnews.com
 axios.com
 bbc.com
@@ -14,15 +15,18 @@ foxnews.com
 glassdoor.com
 kotaku.com
 ktvu.com
+latimes.com
 linkedin.com
 macrumors.com
 marketwatch.com
 mercurynews.com
 mv-voice.com
 nbcnews.com
+newsweek.com
 nydailynews.com
 nypost.com
 nytimes.com
+padailypost.com
 politico.com
 reuters.com
 sfgate.com
@@ -39,6 +43,7 @@ thehill.com
 theradavist.com
 twitter.com
 twz.com
+usnews.com
 washingtonpost.com
 x.com
 youtube.com
