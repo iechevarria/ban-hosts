@@ -39,11 +39,15 @@ techcrunch.com
 theatlantic.com
 thecut.com
 thedrive.com
+theguardian.com
 thehill.com
 theradavist.com
+trulia.com
 twitter.com
 twz.com
+usatoday.com
 usnews.com
 washingtonpost.com
 x.com
 youtube.com
+zillow.com
