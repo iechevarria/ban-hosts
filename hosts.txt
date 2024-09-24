@@ -12,7 +12,9 @@ dpreview.com
 electionbettingodds.com
 electrek.com
 foxnews.com
+fratellowatches.com
 glassdoor.com
+hodinkee.com
 kotaku.com
 ktvu.com
 latimes.com
@@ -25,7 +27,6 @@ nbcnews.com
 newsweek.com
 nydailynews.com
 nypost.com
-nytimes.com
 padailypost.com
 politico.com
 reuters.com
@@ -36,6 +37,7 @@ slate.com
 smdailyjournal.com
 teamblind.com
 techcrunch.com
+teddybaldassarre.com
 theatlantic.com
 thecut.com
 thedrive.com
